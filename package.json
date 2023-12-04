@@ -1,0 +1,20 @@
+{
+  "name": "schedule-board",
+  "version": "1.0.0",
+  "description": "It is a schedule board with multiple functionaility which is powered by node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":" node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louieiply/Schedule-Board.git"
+  },
+  "author": "Louie Ip",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/louieiply/Schedule-Board/issues"
+  },
+  "homepage": "https://github.com/louieiply/Schedule-Board#readme"
+}
